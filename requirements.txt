@@ -1,0 +1,18 @@
+# Core engine (see imports in delphi_nova_1_0.py)
+aiohttp
+numpy
+pandas
+requests
+python-dotenv
+pyrate-limiter
+torch
+TA-Lib
+scikit-learn
+hmmlearn
+xgboost
+fastapi
+uvicorn
+# Optional: live venue SDK (not needed for paper mode)
+# apexomni
+# Tests
+pytest

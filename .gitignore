@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+API_KEYS.env
+*.log
+*.jsonl
+delphi_state*.json
+*.pkl
+*.bak*
+models/
+.DS_Store
+._*
